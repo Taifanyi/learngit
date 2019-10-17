@@ -1,0 +1,1 @@
+A single Git repository can maintain multiple branches of development.
